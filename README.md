@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Pearl
-![alt_text](images/banner.jpeg)
+
 
 # A little bit about me 👀
 - 😄 Pronouns: She/Her
@@ -38,9 +38,7 @@ Here are some ideas to get you started:
 
 # What I've been up to lately 🙃
 
-🤖 As a part of my training in ML, 
-👀 I'm collaborating on the 
-🤓 I am working on 
+
 
 # Technologies that keep me up at night 🤦‍♀️
 
