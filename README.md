@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 📭 You can reach out to me on <a href="https://www.linkedin.com/in/eden-roys-049305175/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> 
 
-# What I've been up to lately 🙃
+
 
 
 
