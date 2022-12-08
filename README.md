@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🌱 Learning Machine Learning and Data Engineering at [AiCore](https://www.theaicore.com) since June 2022 🔥
 
-- 💞️ *Always* looking to collaborate to projects related to the field of Health and Data.
+- 💞️ *Always* looking to collaborate on projects related to the field of Health and Data.
 
 
 📭 You can reach out to me on <a href="https://www.linkedin.com/in/eden-roys-049305175/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> 
