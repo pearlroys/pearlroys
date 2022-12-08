@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # A little bit about me 👀
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I spend most of my time reading philosophical books and watching Animes.
+- ⚡ Fun fact: I spend my spare time reading philosophical books and watching Animes.
 
 - 👩‍🎓 Former Medical Doctor, Masters in Public Health.
 
