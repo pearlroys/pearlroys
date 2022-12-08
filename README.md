@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 
 # Pearl here...
+![IMG_2274](https://user-images.githubusercontent.com/103274172/206408932-36a1910b-7132-4c33-8b9d-4fc2a6b42fad.JPG)
+
 
 
 # A little bit about me 👀
