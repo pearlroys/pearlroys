@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 - 🧑‍🦽 Hoping to make a difference by creating a more accessible and safer world for everyone through technology.
 
-- 🌱 Learning Machine Learning and Data Engineering at [AiCore](https://www.theaicore.com) since June 2022 🔥
-
 - 💞️ *Always* looking to collaborate on projects related to the field of Health and Data.
 
 
