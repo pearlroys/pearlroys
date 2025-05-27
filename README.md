@@ -17,33 +17,21 @@ Here are some ideas to get you started:
 
 
 # Pearl here...
-![IMG_2274](https://user-images.githubusercontent.com/103274172/206408932-36a1910b-7132-4c33-8b9d-4fc2a6b42fad.JPG)
-
 
 
 # A little bit about me 👀
 - 😄 Pronouns: She/Her
+  
 - ⚡ Fun fact: I spend my spare time reading philosophical books and watching Animes.
 
 - 👩‍🎓 Former Medical Doctor, Masters in Public Health.
 
-- 📚 Interested in Data, how to use it to promote unity and understanding in our world.
+- Currently working as a Solutions software Engineer at Kraken!
 
 - 🧑‍🦽 Hoping to make a difference by creating a more accessible and safer world for everyone through technology.
 
-- 💞️ *Always* looking to collaborate on projects related to the field of Health and Data.
-
 
 📭 You can reach out to me on <a href="https://www.linkedin.com/in/eden-roys-049305175/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> 
-
-
-
-
-
-# Technologies that keep me up at night 🤦‍♀️
-
-![9rnujgv697bmk2jq3yip](https://user-images.githubusercontent.com/103274172/206274495-c1fcce82-9644-40a6-88fb-513873d899c1.png)
-
 
 # Languages and tools
 
