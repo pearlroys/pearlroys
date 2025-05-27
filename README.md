@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🧑‍🦽 Hoping to make a difference by creating a more accessible and safer world for everyone through technology.
 
 
-📭 You can reach out to me on <a href="https://www.linkedin.com/in/eden-roys-049305175/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> 
+📭 You can reach out to me on <a href="https://www.linkedin.com/in/eden-r-049305175/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Caterina Bonan | LinkedIn" width="21px"/></a> 
 
 # Languages and tools
 
